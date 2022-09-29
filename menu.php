@@ -17,7 +17,6 @@ session_start();
     footer {
       background-color: black;
     }
-
     @media (max-width: 600px) {
       h5 {
         font-size: 1rem;
