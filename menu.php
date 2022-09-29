@@ -14,7 +14,6 @@ session_start();
       height: 100vh;
       display: grid
     }
-
     footer {
       background-color: black;
     }
